@@ -15,6 +15,9 @@ public class GitApp {
         int subtractB = 5;
         int subtractResult = subtractA - subtractB;
         System.out.println(subtractA + " + " + subtractB + " = " + subtractResult);
+    }
 
+    public static void task2() {
+        System.out.println(" task22 ");
     }
 }
