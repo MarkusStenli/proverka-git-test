@@ -4,9 +4,11 @@ public class GitApp {
     public static void main(String[] args) {
         System.out.println("калькулятор:начало");
 
+        System.out.println("Задача вычитания");
         int subtractA = 10;
-        int subtractB = 10;
+        int subtractB = 5;
         int subtractResult = subtractA - subtractB;
+        System.out.println(subtractA + " + " + subtractB + " = " + subtractResult);
 
     }
 }
