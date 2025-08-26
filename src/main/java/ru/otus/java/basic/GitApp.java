@@ -8,7 +8,7 @@ public class GitApp {
         int sumA = 1;
         int sumB = 2;
         int sumResult = sumA + sumB;
-        System.out.println(sumA + "+" + sumB + "=" + sumResult);
+        System.out.println(sumA + " + " + sumB + " = " + sumResult);
 
     }
 }
