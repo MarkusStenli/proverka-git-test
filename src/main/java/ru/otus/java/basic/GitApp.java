@@ -5,5 +5,7 @@ public class GitApp {
         System.out.println(1);
         System.out.println("Hello World!!!");
         System.out.println(2);
+        int a = 10;
+        System.out.println(a);
     }
 }
