@@ -20,4 +20,7 @@ public class GitApp {
     public static void task2() {
         System.out.println(" task22 ");
     }
+    public static void task1(){
+        System.out.println("task11");
+    }
 }
