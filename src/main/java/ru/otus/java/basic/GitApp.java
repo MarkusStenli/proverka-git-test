@@ -19,6 +19,6 @@ public class GitApp {
     }
 
     public static void task1(){
-        System.out.println("task1");
+        System.out.println("task11");
     }
 }
