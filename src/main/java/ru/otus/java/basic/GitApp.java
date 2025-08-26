@@ -8,4 +8,12 @@ public class GitApp {
         int a = 10;
         System.out.println(a);
     }
+
+    public static void drawSquare() {
+        System.out.println("----");
+        System.out.println("-  -");
+        System.out.println("-  -");
+        System.out.println("----");
+
+    }
 }
