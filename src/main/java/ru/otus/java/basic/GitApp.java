@@ -23,7 +23,6 @@ public class GitApp {
         System.out.println("-  -");
         System.out.println("----");
         byte m = 127;
-        m++;
         System.out.println(m);
     }
 }
