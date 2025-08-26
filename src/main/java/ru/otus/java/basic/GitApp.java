@@ -10,5 +10,11 @@ public class GitApp {
         int sumResult = sumA + sumB;
         System.out.println(sumA + " + " + sumB + " = " + sumResult);
 
+        System.out.println("Задача вычитания:");
+        int subtractA = 10;
+        int subtractB = 5;
+        int subtractResult = subtractA - subtractB;
+        System.out.println(subtractA + " + " + subtractB + " = " + subtractResult);
+
     }
 }
