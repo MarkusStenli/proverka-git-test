@@ -17,4 +17,8 @@ public class GitApp {
         System.out.println(subtractA + " + " + subtractB + " = " + subtractResult);
 
     }
+
+    public static void task1(){
+        System.out.println("task1");
+    }
 }
